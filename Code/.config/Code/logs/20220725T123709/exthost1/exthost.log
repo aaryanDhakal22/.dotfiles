@@ -1,0 +1,90 @@
+[2022-07-25 12:37:11.227] [exthost] [info] Extension host with pid 33043 started
+[2022-07-25 12:37:11.227] [exthost] [info] Skipping acquiring lock for /home/aaryan/.config/Code/User/workspaceStorage/d3ff815e3761015f35f844efd4e65372.
+[2022-07-25 12:37:11.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 12:37:11.356] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 12:37:11.370] [exthost] [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 12:37:11.579] [exthost] [info] ExtensionService#_doActivateExtension wix.glean, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 12:37:11.674] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 12:37:11.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-25 12:37:11.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-25 12:37:11.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.816] [exthost] [info] ExtensionService#_doActivateExtension albert.TabOut, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.818] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.829] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.841] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.857] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.858] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.863] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-07-25 12:37:11.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-25 12:37:12.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-25 12:37:12.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-25 12:37:12.210] [exthost] [info] Eager extensions activated
+[2022-07-25 12:37:12.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-25 12:37:12.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.266] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.267] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.270] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.278] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.450] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.507] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.546] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.560] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:37:12.566] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 12:48:02.871] [exthost] [info] ExtensionService#_doActivateExtension BalduinLandolt.surround-with-tag, startup: false, activationEvent: 'onCommand:extension.surroundWithTag'
+[2022-07-25 13:24:54.785] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:24:59.871] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:25:02.384] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:25:03.875] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:25:16.069] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:26:08.355] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:27:11.796] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:28:50.407] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:28:54.731] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:28:55.352] [exthost] [error] [bradlc.vscode-tailwindcss] provider FAILED
+[2022-07-25 13:28:55.353] [exthost] [error] Error: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+    at Et (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:4:223)
+    at Jt (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11206)
+    at Immediate.<anonymous> (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11059)
+    at processImmediate (node:internal/timers:464:21)
+[2022-07-25 13:28:55.354] [exthost] [error] [bradlc.vscode-tailwindcss] provider FAILED
+[2022-07-25 13:28:55.354] [exthost] [error] Error: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+    at Et (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:4:223)
+    at Jt (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11206)
+    at Immediate.<anonymous> (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11059)
+    at processImmediate (node:internal/timers:464:21)
+[2022-07-25 13:29:27.075] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:33:51.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:39:11.375] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-25 13:39:11.400] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.todo-tree':
+[2022-07-25 13:39:11.401] [exthost] [error] Error: Encountered errors while disposing of store. Errors: [TypeError: c.dispose is not a function, TypeError: c.dispose is not a function]
+    at b (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12412)
+    at w._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:13312)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10645
+    at Array.map (<anonymous>)
+    at w._deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10632)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:11014)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+    at m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:36671)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34616
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 13:39:11.403] [exthost] [warning] {"name":"Canceled"}
+[2022-07-25 13:39:11.403] [exthost] [warning] {"name":"Canceled"}
+[2022-07-25 13:39:11.414] [exthost] [info] Extension host with pid 33043 exiting with code 0

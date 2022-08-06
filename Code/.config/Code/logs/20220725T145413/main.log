@@ -1,0 +1,5 @@
+[2022-07-25 14:54:13.274] [main] [info] update#setState idle
+[2022-07-25 14:54:14.183] [main] [info] Starting extension host with pid 9119 (fork() took 14 ms).
+[2022-07-25 14:54:18.981] [main] [info] Enabling inspect port on extension host with pid 9119.
+[2022-07-25 14:54:19.400] [main] [info] Waiting for extension host with pid 9119 to exit.
+[2022-07-25 14:54:24.673] [main] [info] Extension host with pid 9119 exited with code: 87, signal: null.

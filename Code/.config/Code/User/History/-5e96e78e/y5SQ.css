@@ -1,0 +1,12 @@
+
+body{
+    --myblue : rgba(15, 66, 152, 0.843);
+    --gray : rgb(179, 179, 179);
+}
+
+.hover-pointer:hover{
+    cursor: pointer;
+    box-shadow: 2px 8px 23px 4px var(--myblue);
+    -webkit-box-shadow: 2px 8px 23px 4px var(--myblue);
+    -moz-box-shadow: 2px 8px 23px 4px var(--myblue);
+}

@@ -1,0 +1,32 @@
+Formatter Name: Black
+Formatter Module: black
+CWD Format Server: /home/aaryan/projects/Anmol/production/anmol-website
+sys.path used to run Formatter:
+    /home/aaryan/.vscode/extensions/ms-python.black-formatter-2022.2.0/bundled/formatter
+    /usr/lib/python310.zip
+    /usr/lib/python3.10
+    /usr/lib/python3.10/lib-dynload
+    /home/aaryan/.virtualenvs/api-django/lib/python3.10/site-packages
+    /home/aaryan/.vscode/extensions/ms-python.black-formatter-2022.2.0/bundled/libs
+
+Settings used to run Formatter:
+[
+    {
+        "workspace": "file:///home/aaryan/projects/Anmol/production/anmol-website",
+        "trace": "error",
+        "args": [],
+        "severity": {},
+        "path": [],
+        "interpreter": [
+            "/home/aaryan/.virtualenvs/api-django/bin/python"
+        ]
+    }
+]
+
+black --stdin-filename /home/aaryan/projects/Anmol/production/anmol-website/anmol/settings.py -
+CWD Formatter: /home/aaryan/projects/Anmol/production/anmol-website
+[Error - 9:07:56 PM] reformatted /home/aaryan/projects/Anmol/production/anmol-website/anmol/settings.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+

@@ -1,0 +1,8 @@
+[2022-07-25 07:33:48.284] [GIT  ] [/home/aaryan/projects/anmol-accounting/mitosys] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/print/print.page.tsx • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/print/print.page.tsx • There is no path src/pages/print/print.page.tsx in the commit • 16 ms
+
+[2022-07-25 07:33:48.287] /home/aaryan/.vscode/extensions/eamodio.gitlens-12.1.2/dist/webpack:/gitlens/src/env/node/git/shell.ts:210:6
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:src/pages/print/print.page.tsx
+fatal: There is no path src/pages/print/print.page.tsx in the commit
+
+[2022-07-25 07:52:52.959] [GIT  ] [/home/aaryan/projects/anmol-accounting/mitosys] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/component/fees/perstudentfeecollection/perstudentfeecollection.component.tsx • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- src/component/fees/perstudentfeecollection/perstudentfeecollection.component.tsx • bad revision '0000000000000000000000000000000000000000-' • 14 ms
+

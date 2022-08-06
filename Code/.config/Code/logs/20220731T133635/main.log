@@ -1,0 +1,6 @@
+[2022-07-31 13:36:35.229] [main] [info] update#setState idle
+[2022-07-31 13:36:36.228] [main] [info] Starting extension host with pid 29011 (fork() took 12 ms).
+[2022-07-31 13:37:05.244] [main] [info] update#setState checking for updates
+[2022-07-31 13:37:05.381] [main] [info] update#setState idle
+[2022-07-31 14:18:10.642] [main] [info] Waiting for extension host with pid 29011 to exit.
+[2022-07-31 14:18:10.674] [main] [info] Extension host with pid 29011 exited with code: 0, signal: null.

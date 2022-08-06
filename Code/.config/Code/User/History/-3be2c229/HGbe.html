@@ -1,0 +1,34 @@
+{% extends 'base.html' %} 
+{% block title %}Blogs{% endblock title %}
+{% block body %}
+{% load static%}
+
+
+<div class="text-center d-none d-lg-block">
+  <img class = "img-fluid"  style="width: 20rem;" src="{% static 'images/blog.png'%}" alt="">
+</div>
+<div class="text-center d-lg-none d-xs-block d-sm-block mt-3">
+  <img class = "img-fluid" style="width: 20rem;" src="{% static 'images/blog.png'%}" alt="">
+</div>
+<div class="container blog-back mt-3 px-4 py-3">
+
+      <div class="row g-5">
+        <div class="col-12 bg-white ">
+          <div class="txt-gray" >February 15, 2022</div>
+          <h4 class="text-left" >{{ blog.title }}</h4>
+          <div class="dec-line-space txt-dark-gray text-justify" >{{ blog.body }}</div>
+        </div>
+        <div class="col-12 bg-white ">
+          <div class="txt-gray" >February 15, 2022</div>
+          <h4 class="text-left" >{{ blog.title }}</h4>
+          <div class="dec-line-space txt-dark-gray text-justify" >{{ blog.body }}</div>
+        </div>
+        <div class="col-12 bg-white ">
+          <div class="txt-gray" >February 15, 2022</div>
+          <h4 class="text-left" >{{ blog.title }}</h4>
+          <div class="dec-line-space txt-dark-gray text-justify" >{{ blog.body }}</div>
+        </div>
+      </div>
+
+</div>
+{% endblock body %}

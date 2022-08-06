@@ -1,0 +1,32 @@
+import { useMutation, useQuery, UseQueryResult } from "@tanstack/react-query";
+import axios from "axios";
+import {Student} from '../gtypes'
+import { getReq } from "../utils/axios-utils";
+
+
+
+const updateStudent = (student:Student):Promise<Student>=>{
+    return axios.put("https://anmolsec.com/api/student/details/"+student.studentId,student)
+}
+
+const fetchStudent = ():Promise<Student[]>=>{
+    // return axios.get<Student[]>("https://anmolsec.com/api/student").then(response => response.data)
+    return getReq({url:'/student'})
+}
+
+export const useStudentQuery = ():UseQueryResult<Student[]>=>{
+    return useQuery<Student[],Error>(['students'],fetchStudent,{
+        // cacheTime:5000,
+        staleTime:10000,
+        select:(data)=>{
+            console.log(data)
+            return data.map((student)=>{
+                return {...student,dob:dateFormatter(student.dob)}
+            })
+        }
+        }
+    )
+}
+export const useUpdateStudentData = ()=>{
+    return useMutation(updateStudent)
+}

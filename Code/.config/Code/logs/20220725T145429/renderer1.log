@@ -1,0 +1,59 @@
+[2022-07-25 16:03:07.518] [renderer1] [error] Unexpected token, expected ";" (2:7)
+  1 | /* @babel/template */;
+> 2 | pt>You need to enable JavaScript to run this app.</noscript><div class="container m-5"><div id="root"></div></div></body></html>
+    |       ^: SyntaxError: Unexpected token, expected ";" (2:7)
+  1 | /* @babel/template */;
+> 2 | pt>You need to enable JavaScript to run this app.</noscript><div class="container m-5"><div id="root"></div></div></body></html>
+    |       ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.unexpected (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5248:16)
+    at _class.semicolon (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5232:40)
+    at _class.parseExpressionStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7665:10)
+    at _class.parseExpressionStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9980:69)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7264:19)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)

@@ -1,0 +1,21 @@
+body{
+    background-color: linear-gradient(.25turn, red, 10%, blue);
+}
+.middle-align{
+    margin-top: 90%;
+}
+.spaced{
+
+    letter-spacing: 20px;
+}
+.btn-gray{
+    background-color: rgb(111, 111, 111);
+    border: 2px solid rgb(87, 87, 87);
+    box-shadow: 0px 5px 10px rgb(80, 80, 80);  
+}
+.btn-gray:hover{
+    background-color: rgb(52, 52, 52);
+
+    border: 2px solid rgb(67, 67, 67);
+
+}

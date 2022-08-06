@@ -1,0 +1,16 @@
+[Info  - 9:07:18 PM] (6840) Pylance language server 2022.7.40 (pyright bd00e0d1) starting
+[Info  - 9:07:18 PM] (6840) Server root directory: /home/aaryan/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+Notebook support: Legacy
+[Info  - 9:07:18 PM] (6840) No configuration file found.
+[Info  - 9:07:18 PM] (6840) No pyproject.toml file found.
+[Info  - 9:07:18 PM] (6840) Setting pythonPath for service "anmol-website": "/home/aaryan/.virtualenvs/api-django/bin/python"
+[Warn  - 9:07:18 PM] (6840) stubPath /home/aaryan/projects/Anmol/production/anmol-website/typings is not a valid directory.
+[Info  - 9:07:18 PM] (6840) Assuming Python version 3.10
+[Info  - 9:07:18 PM] (6840) Assuming Python platform Linux
+[Info  - 9:07:18 PM] (6840) Searching for source files
+[Info  - 9:07:18 PM] (6840) Found 48 source files
+[Info  - 9:07:18 PM] (6840) Background analysis(1) root directory: /home/aaryan/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+[Info  - 9:07:18 PM] (6840) Background analysis(1) started
+[Info  - 9:07:18 PM] (6840) Indexer background runner(2) root directory: /home/aaryan/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist (index)
+[Info  - 9:07:18 PM] (6840) Indexing(2) started
+[Info  - 9:07:19 PM] (6840) Indexer done(2). indexed 465 files

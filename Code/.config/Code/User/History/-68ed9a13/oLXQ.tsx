@@ -1,0 +1,24 @@
+import React from "react";
+import StudentTile from "../studenttile/studenttile.component";
+
+const StudentCollection = ({searchStd}:{searchStd :string})=>{
+
+    
+
+    const filtered_profiles = profiles.filter((item)=>{
+        return item.name.toLocaleLowerCase().includes(searchStd.toLocaleLowerCase())
+    }) 
+
+    
+    return <div>
+    <div className="row gy-5" >
+    {filtered_profiles.map((profile)=>{
+        return  <StudentTile profile={profile}/>
+    })} 
+
+    </div>
+   
+    </div>
+}
+
+export default StudentCollection

@@ -1,0 +1,1075 @@
+[2022-07-25 09:00:24.207] [exthost] [info] Extension host with pid 2509 started
+[2022-07-25 09:00:24.207] [exthost] [info] Skipping acquiring lock for /home/aaryan/.config/Code/User/workspaceStorage/d3ff815e3761015f35f844efd4e65372.
+[2022-07-25 09:00:24.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 09:00:24.399] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 09:00:24.419] [exthost] [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 09:00:24.686] [exthost] [info] ExtensionService#_doActivateExtension wix.glean, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 09:00:24.828] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:typescriptreact'
+[2022-07-25 09:00:24.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-25 09:00:24.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 09:00:24.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-25 09:00:24.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 09:00:24.977] [exthost] [info] ExtensionService#_doActivateExtension albert.TabOut, startup: true, activationEvent: '*'
+[2022-07-25 09:00:24.979] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-07-25 09:00:24.993] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.003] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.015] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.016] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.022] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-25 09:00:25.526] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-25 09:00:25.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-25 09:00:25.782] [exthost] [info] Eager extensions activated
+[2022-07-25 09:00:25.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.813] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.819] [exthost] [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.825] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.966] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:25.990] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:26.013] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:26.023] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:00:26.030] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 09:04:29.449] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:04:29.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-07-25 09:04:49.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-25 09:04:49.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-25 09:05:30.117] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:05:30.120] [exthost] [error] SyntaxError: Unexpected token, expected ";" (2:7)
+  1 | /* @babel/template */;
+> 2 | pt>You need to enable JavaScript to run this app.</noscript><div class="container m-5"><div id="root"></div></div></body></html>
+    |       ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.unexpected (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5248:16)
+    at _class.semicolon (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5232:40)
+    at _class.parseExpressionStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7665:10)
+    at _class.parseExpressionStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9980:69)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7264:19)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:05:30.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-25 09:05:30.249] [exthost] [info] ExtensionService#_doActivateExtension BalduinLandolt.surround-with-tag, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-25 09:05:30.422] [exthost] [error] [bradlc.vscode-tailwindcss] provider FAILED
+[2022-07-25 09:05:30.423] [exthost] [error] Error: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+    at Et (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:4:223)
+    at Jt (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11206)
+    at Immediate.<anonymous> (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11059)
+    at processImmediate (node:internal/timers:464:21)
+[2022-07-25 09:05:30.423] [exthost] [error] [bradlc.vscode-tailwindcss] provider FAILED
+[2022-07-25 09:05:30.423] [exthost] [error] Error: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+    at Et (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:4:223)
+    at Jt (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11206)
+    at Immediate.<anonymous> (/home/aaryan/.vscode/extensions/bradlc.vscode-tailwindcss-0.8.6/dist/extension.js:3:11059)
+    at processImmediate (node:internal/timers:464:21)
+[2022-07-25 09:39:40.515] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:40:23.445] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:41:46.238] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:41:54.308] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:43:05.676] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:44:36.214] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:45:01.535] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:47:19.850] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:47:27.341] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:49:12.804] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:51:23.677] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:51:57.988] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:57:02.175] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:57:21.342] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:21.344] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:6)
+  1 | /* @babel/template */;
+  2 | <Navbar/>
+> 3 |       <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |      ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:21.812] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:21.818] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:6)
+  1 | /* @babel/template */;
+  2 | <Navbar/>
+> 3 |       <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |      ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:22.120] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:22.121] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:8)
+  1 | /* @babel/template */;
+  2 |   <Navbar/>
+> 3 |         <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |        ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:22.549] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:22.551] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:10)
+  1 | /* @babel/template */;
+  2 |     <Navbar/>
+> 3 |           <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |          ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:23.054] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:23.055] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:10)
+  1 | /* @babel/template */;
+  2 |     <Navbar/>
+> 3 |           <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |          ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:23.904] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:23.908] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:12)
+  1 | /* @babel/template */;
+  2 |       <Navbar/>
+> 3 |             <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |            ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:24.260] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:24.262] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:12)
+  1 | /* @babel/template */;
+  2 |       <Navbar/>
+> 3 |             <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |            ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:25.403] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:25.405] [exthost] [error] SyntaxError: Unterminated regular expression (2:1)
+  1 | /* @babel/template */;
+> 2 | /div>
+    | ^
+  3 |     </div>
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.readRegexp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4638:14)
+    at _class.readToken_slash (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4276:12)
+    at _class.getTokenFromCode (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4580:14)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4149:12)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3667:46)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10331:48)
+    at _class.nextToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4141:12)
+    at _class.next (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4077:10)
+    at _class.parseEmptyStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7621:10)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7207:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:57:26.117] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:57:26.120] [exthost] [error] RangeError: Invalid array length
+    at _class.updateContext (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3684:35)
+    at _class.finishToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4251:10)
+    at _class.finishOp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4623:10)
+    at _class.readToken_slash (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4285:12)
+    at _class.getTokenFromCode (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4580:14)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4149:12)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3667:46)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10331:48)
+    at _class.nextToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4141:12)
+    at _class.next (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4077:10)
+    at _class.tsParseTypeParameters (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8768:14)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10179:31)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:58:07.216] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:58:07.218] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:10)
+  1 | /* @babel/template */;
+  2 |     <Navbar/>
+> 3 |           <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |          ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:58:07.737] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:58:07.738] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:8)
+  1 | /* @babel/template */;
+  2 |   <Navbar/>
+> 3 |         <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |        ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:58:08.092] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 09:58:08.094] [exthost] [error] SyntaxError: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (3:6)
+  1 | /* @babel/template */;
+  2 | <Navbar/>
+> 3 |       <div className="ml-[22.9rem] mt-[-1.3rem] bg-softerBackground w-[94.9rem] h-auto">
+    |      ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3616:14)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 09:58:45.443] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 09:58:46.257] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:10:03.575] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 10:10:03.578] [exthost] [error] RangeError: Invalid array length
+    at _class.updateContext (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3684:35)
+    at _class.finishToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4251:10)
+    at _class.finishOp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4623:10)
+    at _class.readToken_slash (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4285:12)
+    at _class.getTokenFromCode (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4580:14)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4149:12)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3667:46)
+    at _class.readToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10331:48)
+    at _class.nextToken (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4141:12)
+    at _class.next (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:4077:10)
+    at _class.tsParseTypeParameters (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8768:14)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10179:31)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 10:10:09.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-07-25 10:10:16.217] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:10:17.407] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:25:27.237] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:25:39.672] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:25:41.487] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:26:59.544] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:41.120] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:46.637] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:47.933] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:49.925] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:50.865] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:51.639] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:53:53.338] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 12:16:24.367] [exthost] [error] [wix.glean] provider FAILED
+[2022-07-25 12:16:24.368] [exthost] [error] SyntaxError: Unexpected token (3:20)
+  1 | /* @babel/template */;
+  2 | 
+> 3 |                 <th>
+    |                    ^
+    at _class.raise (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3939:15)
+    at _class.unexpected (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5248:16)
+    at _class.jsxParseElementAt (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3590:26)
+    at _class.jsxParseElement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3626:19)
+    at _class.parseExprAtom (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:3633:21)
+    at _class.parseExprSubscripts (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5924:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5903:21)
+    at _class.parseMaybeUnary (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10213:54)
+    at _class.parseExprOps (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5812:21)
+    at _class.parseMaybeConditional (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5784:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5731:21)
+    at _class.parseMaybeAssign (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10151:89)
+    at _class.parseExpression (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:5684:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7259:21)
+    at _class.parseStatementContent (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:9916:58)
+    at _class.parseStatement (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7145:17)
+    at _class.parseBlockOrModuleBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7696:23)
+    at _class.parseBlockBody (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7683:10)
+    at _class.parseTopLevel (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:7110:10)
+    at _class.parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:8510:17)
+    at parse (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/parser/lib/index.js:10465:38)
+    at parseWithCodeFrame (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:145:32)
+    at parseAndBuildMetadata (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/parse.js:43:15)
+    at /home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/string.js:21:50
+    at Function.ast (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/node_modules/@babel/template/lib/builder.js:47:155)
+    at Object.exports.templateToAst (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/parsing.js:28:54)
+    at Object.isStatelessComp (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/modules/statless-to-stateful.js:20:27)
+    at CompleteActionProvider.provideCodeActions (/home/aaryan/.vscode/extensions/wix.glean-5.2.2/out/extension.js:58:36)
+    at k.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:42489)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72554
+    at te._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:66659)
+    at te.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:72530)
+    at s._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13708)
+    at s._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13390)
+    at s._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:12107)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10853)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:8957
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34679
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 12:36:11.943] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 12:36:12.377] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 12:36:13.712] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 12:37:03.243] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-25 12:37:03.281] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.todo-tree':
+[2022-07-25 12:37:03.281] [exthost] [error] Error: Encountered errors while disposing of store. Errors: [TypeError: c.dispose is not a function, TypeError: c.dispose is not a function]
+    at b (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12412)
+    at w._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:13312)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10645
+    at Array.map (<anonymous>)
+    at w._deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10632)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:11014)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+    at m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:36671)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34616
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 12:37:03.285] [exthost] [warning] {"name":"Canceled"}
+[2022-07-25 12:37:03.311] [exthost] [info] Extension host with pid 2509 exiting with code 0

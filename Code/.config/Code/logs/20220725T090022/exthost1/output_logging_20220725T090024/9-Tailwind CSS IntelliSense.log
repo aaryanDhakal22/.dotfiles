@@ -1,0 +1,12 @@
+Found Tailwind CSS config file: /home/aaryan/projects/anmol-accounting/mitosys/tailwind.config.js
+Loaded postcss v8.4.14: /home/aaryan/projects/anmol-accounting/mitosys/node_modules/postcss
+Loaded tailwindcss v3.1.6: /home/aaryan/projects/anmol-accounting/mitosys/node_modules/tailwindcss
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.
+[Error - 9:05:30 AM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+  Code: -32603 
+[Error - 9:05:30 AM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: Cannot read properties of undefined (reading 'uri')
+  Code: -32603 

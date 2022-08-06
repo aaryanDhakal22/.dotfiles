@@ -1,0 +1,25 @@
+import React from "react";
+FeeTile
+import { StudentProfile } from "../../gtypes";
+import FeeTile from "../feetile/feetile.component";
+const FeesCollection = ({searchStd,profiles}:{searchStd :string,profiles:StudentProfile[]})=>{
+
+    
+
+    const filtered_profiles = profiles.filter((item)=>{
+        return item.name.toLocaleLowerCase().includes(searchStd.toLocaleLowerCase())
+    }) 
+
+    
+    return <div>
+    <div className="row gy-5" >
+    {filtered_profiles.map((profile)=>{
+        return  <StudentTile key ={profile.unid} profile={profile}/>
+    })} 
+
+    </div>
+   
+    </div>
+}
+
+export default FeesCollection

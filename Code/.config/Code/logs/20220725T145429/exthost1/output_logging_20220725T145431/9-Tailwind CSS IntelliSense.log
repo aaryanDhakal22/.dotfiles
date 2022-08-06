@@ -1,0 +1,6 @@
+Found Tailwind CSS config file: /home/aaryan/projects/anmol-accounting/mitosys/tailwind.config.js
+Loaded postcss v8.4.14: /home/aaryan/projects/anmol-accounting/mitosys/node_modules/postcss
+Loaded tailwindcss v3.1.6: /home/aaryan/projects/anmol-accounting/mitosys/node_modules/tailwindcss
+
+warn - The RTL features in Tailwind CSS are currently in preview.
+warn - Preview features are not covered by semver, and may be improved in breaking ways at any time.

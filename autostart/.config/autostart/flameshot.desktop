@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Flameshot
+NoDisplay=false
+Exec=/usr/bin/flameshot &
+Comment=Screenshot Application.
+Categories=System;

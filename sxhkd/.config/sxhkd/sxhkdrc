@@ -1,0 +1,13 @@
+XF86AudioRaiseVolume
+  ~/.local/bin/changevolume up
+XF86AudioLowerVolume
+  ~/.local/bin/changevolume down
+shift + XF86AudioRaiseVolume
+  ~/.local/bin/changevolume max
+shift + XF86AudioLowerVolume
+  ~/.local/bin/changevolume mute
+XF86MonBrightnessUp
+  ~/.local/bin/changebrightness up
+XF86MonBrightnessDown
+  ~/.local/bin/changebrightness down
+

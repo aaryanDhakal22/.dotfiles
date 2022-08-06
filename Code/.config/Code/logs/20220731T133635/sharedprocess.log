@@ -1,0 +1,22 @@
+[2022-07-31 13:36:37.213] [sharedprocess] [info] Starting worker process with pid 29080 (type: fileWatcher, window: 1).
+[2022-07-31 13:36:39.908] [sharedprocess] [info] Getting Manifest... aaron-bond.better-comments
+[2022-07-31 13:36:39.909] [sharedprocess] [info] Getting Manifest... ecmel.vscode-html-css
+[2022-07-31 13:36:39.910] [sharedprocess] [info] Getting Manifest... ms-vscode.vscode-typescript-next
+[2022-07-31 13:36:41.225] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2022-07-31 13:36:41.394] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-07-31 13:36:41.507] [sharedprocess] [info] Installing extension: aaron-bond.better-comments
+[2022-07-31 13:36:44.153] [sharedprocess] [info] Downloaded extension: aaron-bond.better-comments /home/aaryan/.config/Code/CachedExtensionVSIXs/aaron-bond.better-comments-3.0.2
+[2022-07-31 13:36:44.225] [sharedprocess] [info] Extracted extension to /home/aaryan/.vscode/extensions/.11524884-7dea-406e-a30a-09a618f84ae2: aaron-bond.better-comments
+[2022-07-31 13:36:44.228] [sharedprocess] [info] Renamed to /home/aaryan/.vscode/extensions/aaron-bond.better-comments-3.0.2
+[2022-07-31 13:36:44.230] [sharedprocess] [info] Extracting completed. aaron-bond.better-comments
+[2022-07-31 13:36:44.233] [sharedprocess] [info] Extension installed successfully: aaron-bond.better-comments
+[2022-07-31 13:36:45.014] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/aaryan/.config/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.13.1
+[2022-07-31 13:36:45.027] [sharedprocess] [info] Extracted extension to /home/aaryan/.vscode/extensions/.5b854217-8d26-4661-8f6d-9cdf4fe257c8: ecmel.vscode-html-css
+[2022-07-31 13:36:45.030] [sharedprocess] [info] Renamed to /home/aaryan/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+[2022-07-31 13:36:45.031] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-07-31 13:36:45.034] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2022-07-31 13:36:48.803] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/aaryan/.config/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.8.20220730
+[2022-07-31 13:36:49.257] [sharedprocess] [info] Extracted extension to /home/aaryan/.vscode/extensions/.d59c396b-b293-4fd9-bb45-a4d864f767c1: ms-vscode.vscode-typescript-next
+[2022-07-31 13:36:49.263] [sharedprocess] [info] Renamed to /home/aaryan/.vscode/extensions/ms-vscode.vscode-typescript-next-4.8.20220730
+[2022-07-31 13:36:49.265] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2022-07-31 13:36:49.269] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
