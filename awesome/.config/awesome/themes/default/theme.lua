@@ -51,7 +51,7 @@ theme.notification_border_width = 2
 theme.menu_height = dpi(15)
 theme.menu_width  = dpi(100)
 
-theme.wallpaper = themes_path .. "default/wallpapers/sunset.jpg"
+theme.wallpaper = themes_path .. "default/wallpapers/rickAndMorty.jpg"
 theme.icon_theme = nil
 
 return theme

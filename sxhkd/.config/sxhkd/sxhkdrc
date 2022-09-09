@@ -10,4 +10,5 @@ XF86MonBrightnessUp
   ~/.local/bin/changebrightness up
 XF86MonBrightnessDown
   ~/.local/bin/changebrightness down
-
+Print
+  dunstify "Hello There"

@@ -1,1 +1,0 @@
-prompter = document.getElementById("prompter")

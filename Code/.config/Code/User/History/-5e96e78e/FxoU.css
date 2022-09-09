@@ -1,9 +1,0 @@
-
-var(--blue,rgb(0,0,100))
-
-.hover-pointer:hover{
-    cursor: pointer;
-    box-shadow: 2px 8px 23px 4px rgba(66,66,66,0.7);
-    -webkit-box-shadow: 2px 8px 23px 4px rgba(66,66,66,0.7);
-    -moz-box-shadow: 2px 8px 23px 4px rgba(66,66,66,0.7);
-}

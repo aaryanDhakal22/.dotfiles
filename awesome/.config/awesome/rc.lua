@@ -103,7 +103,7 @@ awful.screen.connect_for_each_screen(function(s)
     set_wallpaper(s)
 
     -- Each screen has its own tag table.
-    awful.tag({ "Output", "Code", "Terminal", "4","5","6","7" }, s, awful.layout.layouts[1])
+    awful.tag({ "Docs", "Code", "Output", "Terminal","5","6","7" }, s, awful.layout.layouts[1])
 
 
 end)
@@ -162,6 +162,8 @@ globalkeys = gears.table.join(
     -- Standard program
     awful.key({ modkey,           }, "Return", function () awful.spawn(terminal) end,
               {description = "open a terminal", group = "launcher"}),
+    awful.key({modkey,            }, "w", function () awful.util.spawn("brave") end,
+              {description = "Opens a Browser", group = "launcher"}),
     awful.key({ modkey, "Control" }, "r", awesome.restart,
               {description = "reload awesome", group = "awesome"}),
 
