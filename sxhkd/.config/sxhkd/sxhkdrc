@@ -1,0 +1,26 @@
+XF86AudioRaiseVolume
+  ~/.local/bin/changevolume up
+super + XF86AudioLowerVolume
+  dunstify "This works"
+XF86AudioLowerVolume
+  ~/.local/bin/changevolume down
+shift + XF86AudioRaiseVolume
+  ~/.local/bin/changevolume max
+shift + XF86AudioLowerVolume
+  ~/.local/bin/changevolume mute
+XF86MonBrightnessUp
+  ~/.local/bin/changebrightness up
+XF86MonBrightnessDown
+  ~/.local/bin/changebrightness down
+Print
+  flameshot gui
+super + alt + l
+  /bin/betterlockscreen -l
+XF86Launch4
+  asusctl profile -n
+XF86KbdBrightnessUp
+  dunstify "High Key Bright" 
+XF86Launch1
+  brave https://www.youtube.com/watch?v=dQw4w9WgXcQ
+shift + XF86Launch1
+  ~/.local/bin/changeWalpScript

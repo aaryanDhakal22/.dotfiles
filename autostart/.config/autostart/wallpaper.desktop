@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Desktop
+NoDisplay=false
+Exec=/home/aaryan/.local/bin/initialwalpScript
+Comment=Wallpaper Set Application.
+Categories=System;

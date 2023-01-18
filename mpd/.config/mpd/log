@@ -1,0 +1,16 @@
+Aug 06 17:28 : update: added /water.mp3
+Aug 06 17:28 : update: added /vikram.mp3
+Aug 06 17:31 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Aug 06 19:23 : player: played "water.mp3"
+Aug 06 19:23 : player: played "water.mp3"
+Aug 06 19:23 : player: played "water.mp3"
+Aug 06 19:24 : player: played "vikram.mp3"
+Aug 06 19:26 : player: played "vikram.mp3"
+Aug 06 19:46 : player: played "vikram.mp3"
+Aug 06 19:47 : player: played "vikram.mp3"
+Aug 06 19:47 : exception: Failed to open audio output
+Aug 06 19:52 : player: played "vikram.mp3"
+Aug 06 19:57 : player: played "vikram.mp3"
+Aug 06 19:59 : player: played "vikram.mp3"
+Aug 06 20:04 : exception: Failed to open '/home/aaryan/.config/mpd/state': No such file or directory
+Aug 06 20:06 : player: played "vikram.mp3"
